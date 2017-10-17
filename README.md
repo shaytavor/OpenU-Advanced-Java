@@ -4,7 +4,7 @@ This Repository contains learning materials for the Openu Advanced Java Course.
 <p/>
  <ul>
   <li><a href = "https://github.com/shaytavor/OpenU-Advanced-Java/blob/master/Slides">Presentations</a></li>
-  <li><a href = "">Code Examples</a></li>
+  <li><a href = "https://github.com/shaytavor/OpenU-Advanced-Java/tree/master/Code-Samples">Code Examples</a></li>
  </ul>
  
 <h3>Legal Note</h3>
